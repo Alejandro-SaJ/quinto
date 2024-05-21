@@ -186,11 +186,10 @@ button{
     font-size: 1.9rem;
     
 }
-button:hover{
-    
+
+.boton:hover{
     background: linear-gradient(var(--LightSlateBlue),var(--LightRoyalBlue));
     cursor: pointer;
-
 }
 
 
