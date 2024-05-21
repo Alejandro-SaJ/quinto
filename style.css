@@ -186,6 +186,12 @@ button{
     font-size: 1.9rem;
     
 }
+button:hover{
+    
+    background: linear-gradient(var(--LightSlateBlue),var(--LightRoyalBlue));
+    cursor: pointer;
+
+}
 
 
 @media only screen and (max-width: 700px) {
